@@ -2,8 +2,8 @@
 
 ## Authors
 
+* Himself
 * Myself
-* aharfoot
 
 ## Further information
 
